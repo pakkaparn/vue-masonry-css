@@ -67,7 +67,7 @@ const breakpointValue = (mixed, windowWidth) => {
   return matchedValue;
 }
 
-const component = {
+export const component = {
   props,
 
   data() {
